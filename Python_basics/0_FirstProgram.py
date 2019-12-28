@@ -1,6 +1,6 @@
 print('Hello world en Python')
 name = input('What is your name?\n')
-print('Helooo ' + name)
+print('HeloooOO ' + name)
 
 # Fundamental Data Types
 """int float bool str list tuple set dict"""
@@ -9,3 +9,5 @@ print('Helooo ' + name)
 
 # Specialized Data Types
 #none
+
+#CAMBIANDO EL CÓDIGO ANDO
