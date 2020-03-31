@@ -10,6 +10,7 @@ long_string ='''
 
         ---
         |||
+         _
 
         '''
 
@@ -59,9 +60,6 @@ print(selfish[::-1]) #beginign by tehe end you can reverse
 #Inmutability
 statement = '0123456789' +'12'
 print(statement) #we cant change the value of an inex of a string by inmutability
-
-
-
 
 
 
