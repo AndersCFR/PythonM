@@ -15,3 +15,7 @@ ggggggg
 
 comentary 
 '''
+
+#None
+weapons = None
+print(weapons)

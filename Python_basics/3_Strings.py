@@ -54,12 +54,26 @@ print(selfish[5:]) #[start:end]
 print(selfish[:5]) #[begin:end]
 print(selfish[::1]) #[::strpover]
 print(selfish[-5]) #begining by the end 
-print(selfish[::-1]) #beginign by tehe end you can reverse
+print(selfish[::-1]) #beginign by the end you can reverse
 
 #Inmutability
 statement = '0123456789' +'12'
 print(statement) #we cant change the value of an inex of a string by inmutability
 
+#Functions para Strings
+print(len('heloooo'))  #dont start at 0
+greet = "see you"
+print(greet[:])
+print(greet[0:len(greet)])
+
+# String Methods: only for Strings
+quote = 'to be or not to be'
+print(quote.upper())
+print(quote.capitalize())
+print(quote.find('be'))
+print(quote.replace('be','me'))
+quote2 = quote.upper();
+print(quote2)
 
 
 
