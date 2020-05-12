@@ -10,6 +10,7 @@ long_string ='''
 
         ---
         |||
+         _
 
         '''
 
@@ -74,8 +75,5 @@ print(quote.find('be'))
 print(quote.replace('be','me'))
 quote2 = quote.upper();
 print(quote2)
-
-
-
 
 
